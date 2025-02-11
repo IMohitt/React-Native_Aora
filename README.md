@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# React Native Video App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## 🤖 Introduction
 
-1. Install dependencies
+Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
-   ```bash
-   npm install
-   ```
+## ⚙️ Tech Stack
 
-2. Start the app
+- React Native: Framework for building cross-platform mobile applications.
+- Nativewind & Tailwind CSS: For responsive and customizable UI styling.
+- Appwrite: Backend services for database, storage, and authentication.
+- EXPO: For development, testing, and deployment of the app.
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## 🔋 Functionalities
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Authentication:
+   - Login, Signup, and Logout.
+  
+Video Post Management:
+   - Create new video posts.
+   - View a list of all video posts.
+   - Bookmark video posts for future reference.
+   - Delete video posts.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## EXPO Link
 
-When you're ready, run:
+Preview the app on Expo:
+- https://expo.dev/preview/update?message=Aora&updateRuntimeVersion=1.0.0&createdAt=2025-01-25T10%3A53%3A32.185Z&slug=exp&projectId=a34269c9-9712-4f95-8110-b77248fe1830&group=56d56fd4-b8e6-496c-be8c-6f77cf9c1a53
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
